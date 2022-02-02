@@ -668,7 +668,7 @@ justify-content: center;
 }
 
 .backdrop.is-hidden .modal {
-  transform: translate(-50%, -50%) scale(0.8git );
+  transform: translate(-50%, -50%) scale(0.8);
 }
 
 .modal {
